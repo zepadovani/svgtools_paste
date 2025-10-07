@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.2" width="56.48mm" height="25.00mm" viewBox="0.0000 -0.0000 53.5637 23.7106" id="svg109" sodipodi:docname="container.svg" inkscape:version="1.4.2 (ebf0e940, 2025-05-08)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.2" width="56.48mm" height="25.00mm" viewBox="0.0000 -0.0000 56.5637 23.7106" id="svg109" sodipodi:docname="container.svg" inkscape:version="1.4.2 (ebf0e940, 2025-05-08)">
   <defs id="defs109" />
   <sodipodi:namedview id="namedview109" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="1.7105319" inkscape:cx="44.430623" inkscape:cy="62.261334" inkscape:current-layer="svg109" />
   <style type="text/css" id="style1">
@@ -39,7 +39,7 @@ tspan { white-space: pre; }
   <g transform="translate(0.8500, 3.0719)" id="g11">
     <path transform="scale(0.0040, -0.0040)" d="M34 33l-1 -58v-10c0 -21 2 -43 5 -64c41 38 85 80 85 136c0 31 -13 63 -40 63c-31 0 -48 -33 -49 -67zM32 441l-8 -333c25 27 60 42 97 42c49 0 79 -52 79 -106c0 -76 -78 -117 -133 -169c-19 -18 -27 -52 -55 -52c-17 0 -30 17 -30 35l-14 583c10 6 21 9 32 9 s22 -3 32 -9z" fill="currentColor" id="path10" />
   </g>
-<g id="wrapper_gesture_paths" transform="translate(0.0 0.0) scale(1.0544454546642597)"><path fill="none" stroke-width="0.262342mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.807737" stroke-miterlimit="10" d="M 0.000000 0.000000 C 0.152962 0.031695 0.358289 0.073036 0.511251 0.104731 " />
+<g id="wrapper_for_gesture_paths" transform="translate(0.0 0.0) scale(0.9985202523880156)"><path fill="none" stroke-width="0.262342mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.807737" stroke-miterlimit="10" d="M 0.000000 0.000000 C 0.152962 0.031695 0.358289 0.073036 0.511251 0.104731 " />
 <path fill="none" stroke-width="0.260688mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.804219" stroke-miterlimit="10" d="M 0.511251 0.104731 C 0.664213 0.133669 0.869541 0.170876 1.022503 0.199815 " />
 <path fill="none" stroke-width="0.259033mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.800702" stroke-miterlimit="10" d="M 1.022503 0.199815 C 1.176843 0.225998 1.380792 0.260449 1.533754 0.285254 " />
 <path fill="none" stroke-width="0.257379mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.797184" stroke-miterlimit="10" d="M 1.533754 0.285254 C 1.686716 0.308680 1.892043 0.338997 2.045006 0.362424 " />
