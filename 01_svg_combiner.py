@@ -110,7 +110,7 @@ if __name__ == "__main__":
         combine_svgs(
             container_path='container.svg',
             source_path='topaste.svg',
-            output_path='out/container_plus_paste.svg',
+            output_path='out/combined1.svg',
             group_id='gesture_paths',
             x_mm=0,  # Posição X em mm no destino
             y_mm=0   # Posição Y em mm no destino

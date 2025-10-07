@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.2" width="100.00mm" height="100.00mm" viewBox="0.0000 -0.0000 100.0000 100.0000">
+<g transform="translate(0.0000, 0.0000)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="1" stroke="rgb(100%, 50%, 0%)" x1="0" y1="0" x2="100" y2="100" />
+</g>
+<g id="topaste3" transform="scale(1.0) translate(10.0 5.0) scale(3) rotate(45)"><path style="fill:none;stroke:#ff00ff;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none" d="M 10,2 20,2" id="path3-3" sodipodi:nodetypes="cc" />
+  <g id="gesture_paths">
+    <path fill="none" stroke-width="0.10000mm" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="0.807737" stroke-miterlimit="10" d="M 0.000000 5.000000 C 5.000000 2.000000 15.000000 8.000000 20.000000 5.000000" id="path1" />
+  </g>
+  <rect style="fill:#ff0000;stroke:none;stroke-width:1.02598;stroke-linejoin:miter" id="rect1" width="5" height="2" x="0" y="0" />
+  <g id="g1">
+    <rect style="fill:#0000ff;stroke:none;stroke-width:1.02598;stroke-linejoin:miter" id="rect2" width="5" height="2" x="0" y="8" />
+    <rect style="fill:#00ff00;stroke:none;stroke-width:1.02598;stroke-linejoin:miter" id="rect3" width="5" height="2" x="15" y="8" />
+    <path style="fill:none;stroke:#333333;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none" d="m 5,8 10,2" id="path3" sodipodi:nodetypes="cc" />
+  </g>
+</g></svg>
